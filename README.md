@@ -69,4 +69,3 @@ psql -U postgres < universe.sql
 ```
 
 Enjoy exploring the universe database!
-```
